@@ -13,7 +13,7 @@ super();
  */
 class MainActivity : AppCompatActivity() {
     //fun en kotlin es una palabra reservada para implementar o crear una funcion o metodo
-    //VAMOS A PROBAR QUE FUNCIONA GITHUB
+    //VAMOS A PROBAR QUE FUNCIONA GITHUB esto lo esty editando desde repositorio
     override fun onCreate(nombre: Bundle?) {
         super.onCreate(nombre)
         setContentView(R.layout.activity_main)
